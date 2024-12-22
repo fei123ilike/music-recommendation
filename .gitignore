@@ -20,3 +20,4 @@ Thumbs.db
 # .ignore music files
 *.m4a
 *.wav
+/jukebox/*
