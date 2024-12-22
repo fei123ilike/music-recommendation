@@ -1,0 +1,213 @@
+Processed Songs (1-indexed):
+1: Seven (feat. Latto) (Explicit Ver.) by Latto, Jung Kook
+2: LALA by Myke Towers
+3: vampire by Olivia Rodrigo
+4: Cruel Summer by Taylor Swift
+5: WHERE SHE GOES by Bad Bunny
+6: Sprinter by Dave, Central Cee
+7: Ella Baila Sola by Eslabon Armado, Peso Pluma
+8: Columbia by Quevedo
+9: fukumean by Gunna
+10: La Bebe - Remix by Peso Pluma, Yng Lvcas
+11: un x100to by Bad Bunny, Grupo Frontera
+12: Super Shy by NewJeans
+1: Seven (feat. Latto) (Explicit Ver.) by Latto, Jung Kook
+2: LALA by Myke Towers
+3: vampire by Olivia Rodrigo
+4: Cruel Summer by Taylor Swift
+5: WHERE SHE GOES by Bad Bunny
+6: Sprinter by Dave, Central Cee
+7: Ella Baila Sola by Eslabon Armado, Peso Pluma
+8: Columbia by Quevedo
+9: fukumean by Gunna
+10: La Bebe - Remix by Peso Pluma, Yng Lvcas
+11: un x100to by Bad Bunny, Grupo Frontera
+12: Super Shy by NewJeans
+13: Flowers by Miley Cyrus
+14: Daylight by David Kushner
+15: As It Was by Harry Styles
+16: Kill Bill by SZA
+17: Cupid - Twin Ver. by Fifty Fifty
+18: What Was I Made For? [From The Motion Picture "Barbie"] by Billie Eilish
+19: Classy 101 by Feid, Young Miko
+20: Like Crazy by Jimin
+21: LADY GAGA by Gabito Ballesteros, Junior H, Peso Pluma
+22: I Can See You (TaylorÄĹźËÄĹźËÄĹźËs Version) (From The  by Taylor Swift
+23: I Wanna Be Yours by Arctic Monkeys
+24: Peso Pluma: Bzrp Music Sessions, Vol. 55 by Bizarrap, Peso Pluma
+25: Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series) by The Weeknd, Madonna, Playboi Carti
+26: SABOR FRESA by Fuerza Regida
+28: MOJABI GHOST by Tainy, Bad Bunny
+29: Last Night by Morgan Wallen
+30: Dance The Night (From Barbie The Album) by Dua Lipa
+31: Rush by Troye Sivan
+32: TULUM by Peso Pluma, Grupo Frontera
+33: Creepin' by The Weeknd, 21 Savage, Metro Boomin
+34: Anti-Hero by Taylor Swift
+35: TQG by Karol G, Shakira
+36: Los del Espacio by Big One, Duki, Lit Killah, Maria Becerra, FMK, Rusherking, Emilia, Tiago pzk
+38: Blank Space by Taylor Swift
+39: Style by Taylor Swift
+40: TQM by Fuerza Regida
+42: Sunflower - Spider-Man: Into the Spider-Verse by Post Malone, Swae Lee
+43: I'm Good (Blue) by Bebe Rexha, David Guetta
+44: See You Again by Tyler, The Creator, Kali Uchis
+45: Barbie World (with Aqua) [From Barbie The Album] by Nicki Minaj, Aqua, Ice Spice
+46: Angels Like You by Miley Cyrus
+47: I Ain't Worried by OneRepublic
+48: Die For You by The Weeknd
+49: Starboy by The Weeknd, Daft Punk
+50: Die For You - Remix by Ariana Grande, The Weeknd
+51: El Cielo by Feid, Myke Towers, Sky Rompiendo
+52: Baby Don't Hurt Me by David Guetta, Anne-Marie, Coi Leray
+53: AMARGURA by Karol G
+54: (It Goes Like) Nanana - Edit by Peggy Gou
+55: Another Love by Tom Odell
+56: Blinding Lights by The Weeknd
+57: Moonlight by Kali Uchis
+58: La Bachata by Manuel Turizo
+59: S91 by Karol G
+60: cardigan by Taylor Swift
+62: Boy's a liar Pt. 2 by PinkPantheress, Ice Spice
+63: Left and Right (Feat. Jung Kook of BTS) by Charlie Puth, BTS, Jung Kook
+65: Hey Mor by Ozuna, Feid
+66: Yellow by Chris Molitor
+67: Karma by Taylor Swift
+68: People by Libianca
+69: Overdrive by Post Malone
+70: Enchanted (Taylor's Version) by Taylor Swift
+71: BABY HELLO by Rauw Alejandro, Bizarrap
+72: Heat Waves by Glass Animals
+73: golden hour by JVKE
+74: Sweater Weather by The Neighbourhood
+75: Quevedo: Bzrp Music Sessions, Vol. 52 by Bizarrap, Quevedo
+76: Viva La Vida by Coldplay
+77: Here With Me by d4vd
+78: Unholy (feat. Kim Petras) by Sam Smith, Kim Petras
+79: Yandel 150 by Yandel, Feid
+81: Riptide by Vance Joy
+82: Until I Found You (with Em Beihold) - Em Beihold Version by Em Beihold, Stephen Sanchez
+84: Back To December (Taylor's Version) by Taylor Swift
+85: STAY (with Justin Bieber) by Justin Bieber, The Kid Laroi
+86: El Merengue by Marshmello, Manuel Turizo
+87: Someone You Loved by Lewis Capaldi
+88: Me Porto Bonito by Chencho Corleone, Bad Bunny
+89: Makeba by Jain
+91: Fast Car by Luke Combs
+92: What It Is (Solo Version) by Doechii
+93: Coco Chanel by Bad Bunny, Eladio Carrion
+95: Still With You by Jung Kook
+96: All My Life (feat. J. Cole) by J. Cole, Lil Durk
+97: Say Yes To Heaven by Lana Del Rey
+98: Snooze by SZA
+99: Summertime Sadness by Lana Del Rey
+100: Take Two by BTS
+101: Lover by Taylor Swift
+102: Too Many Nights (feat. Don Toliver & with Future) by Future, Metro Boomin, Don Toliver
+103: Chemical by Post Malone
+104: Mockingbird by Eminem
+105: New Jeans by NewJeans
+106: Primera Cita by Carin Leon
+107: Cold Heart - PNAU Remix by Dua Lipa, Elton John, Pnau
+108: Dandelions by Ruth B.
+109: Bones by Imagine Dragons
+110: Set Fire to the Rain by Adele
+111: Money Trees by Kendrick Lamar, Jay Rock
+112: Tak Segampang Itu by Anggi Marito
+114: Mine (Taylor's Version) by Taylor Swift
+115: Everybody Wants To Rule The World by Tears For Fears
+116: No Role Modelz by J. Cole
+117: Tattoo by Loreen
+118: Rara Vez by Taiu, Milo j
+120: august by Taylor Swift
+121: LUNA by Junior H, Peso Pluma
+122: Miracle (with Ellie Goulding) by Calvin Harris, Ellie Goulding
+123: Nonsense by Sabrina Carpenter
+124: Que Vuelvas by Carin Leon, Grupo Frontera
+125: Por las Noches by Peso Pluma
+127: Can't Hold Us (feat. Ray Dalton) by Ray Dalton, Ryan Lewis, Macklemore
+128: Watermelon Sugar by Harry Styles
+130: Rauw Alejandro: Bzrp Music Sessions, Vol. 56 by Rauw Alejandro, Bizarrap
+132: OMG by NewJeans
+133: Radio by Lana Del Rey
+134: Shakira: Bzrp Music Sessions, Vol. 53 by Shakira, Bizarrap
+135: 505 by Arctic Monkeys
+136: Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie) by Swae Lee, A Boogie Wit da Hoodie, Metro Boomin, NAV
+137: Trance (with Travis Scott & Young Thug) by Travis Scott, Young Thug, Metro Boomin
+139: Perfect by Ed Sheeran
+140: Romantic Homicide by d4vd
+141: Believer by Imagine Dragons
+143: Gol Bolinha, Gol Quadrado 2 by Mc Pedrinho, DJ 900
+144: Without Me by Eminem
+145: QUEMA by Sog, Ryan Castro, Peso Pluma
+146: Stargirl Interlude by The Weeknd, Lana Del Rey
+148: Somewhere Only We Know by Keane
+149: Those Eyes by New West
+150: El Gordo Trae El Mando by Chino Pacas
+151: Mi Bello Angel by Natanael Cano
+152: Bye by Peso Pluma
+153: Danza Kuduro by Don Omar, Lucenzo
+154: Nosso Quadro by Ana Castela, AgroPlay
+155: Locked Out Of Heaven by Bruno Mars
+156: Un Finde | CROSSOVER #2 by Big One, FMK, Ke personajes
+157: Jimmy Cooks (feat. 21 Savage) by Drake, 21 Savage
+158: Counting Stars by OneRepublic
+159: Ghost by Justin Bieber
+160: Under The Influence by Chris Brown
+161: PRC by Natanael Cano, Peso Pluma
+162: Gasolina by Daddy Yankee
+163: One Dance by Drake, WizKid, Kyla
+164: Enchanted by Taylor Swift
+165: Save Your Tears by The Weeknd
+166: Sure Thing by Miguel
+167: Every Breath You Take - Remastered 2003 by The Police
+168: The Night We Met by Lord Huron
+169: We Found Love by Rihanna, Calvin Harris
+170: When I Was Your Man by Bruno Mars
+171: Let Me Down Slowly by Alec Benjamin
+172: Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee) by A$AP Rocky, Metro Boomin, Roisee
+173: Do I Wanna Know? by Arctic Monkeys
+174: Demons by Imagine Dragons
+176: Reminder by The Weeknd
+177: Shake It Off by Taylor Swift
+178: Why'd You Only Call Me When You're High? by Arctic Monkeys
+179: SNAP by Rosa Linn
+180: Shape of You by Ed Sheeran
+181: Night Changes by One Direction
+182: Fin de Semana by Oscar Maydon, Junior H
+183: Creep by Radiohead
+184: Car's Outside by James Arthur
+185: Apocalypse by Cigarettes After Sex
+186: Cheques by Shubh
+187: Pink + White by Frank Ocean
+188: Circles by Post Malone
+189: Just The Way You Are by Bruno Mars
+190: Take Me To Church by Hozier
+191: Bebe Dame by Fuerza Regida, Grupo Frontera
+194: Better Than Revenge (Taylor's Version) by Taylor Swift
+195: Shut up My Moms Calling by Hotel Ugly
+196: Have You Ever Seen The Rain? by Creedence Clearwater Revival
+197: Es un Secreto by Plan B
+198: POLARIS - Remix by Feid, Mora, Saiko, Quevedo
+199: Ditto by NewJeans
+200: Take On Me by a-ha
+201: Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset) by Swae Lee, Lil Wayne, Offset, Metro Boomin
+202: Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long) by Kodak Black, NLE Choppa, Muni Long, JVKE, Jimin
+204: AMG by Natanael Cano, Gabito Ballesteros, Peso Pluma
+206: S-Class by Stray Kids
+207: Hits Different by Taylor Swift
+208: Chanel by Becky G, Peso Pluma
+209: Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray) by Metro Boomin, Coi Leray
+210: Area Codes by Kaliii, Kaliii
+212: Obsessed by Abhijay Sharma, Riar Saab
+214: FLOWER by JISOO
+215: All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert) by Future, Lil Uzi Vert, Metro Boomin
+216: Eyes Closed by Ed Sheeran
+217: Escapism. by RAYE, 070 Shake
+218: La Jumpa by Arcangel, Bad Bunny
+219: Karma (feat. Ice Spice) by Taylor Swift, Ice Spice
+220: Superhero (Heroes & Villains) [with Future & Chris Brown] by Future, Chris Brown, Metro Boomin
+221: Las Morras by BLESSD, Peso Pluma
+222: CHORRITO PA LAS ANIMAS by Feid
+223: Ch y la Pizza by Fuerza Regida, Natanael Cano
+224: Snow On The Beach (feat. More Lana Del Rey) by Lana Del Rey, Taylor Swift

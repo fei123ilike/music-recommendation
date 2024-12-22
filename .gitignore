@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore data cache files
+.cache/
+
+# Ignore IDE-specific files
+*.code-workspace
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment and log files
+*.env
+*.log
+
+# .ignore music files
+*.m4a
+*.wav
